@@ -63,7 +63,7 @@ public class stack {
 			System.out.println("Stack already created!");
 		else{
 			head =  new stack();
-			//head.next = null;
+			head.next = null;
 		}
 		return head;
 	}
