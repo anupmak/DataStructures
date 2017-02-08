@@ -7,5 +7,6 @@ This repository has data strcutres implemented from scratch.
 - Queue using Arrays
 - Queue using LinkedList
 - HashTable using Array for size of hashmap and LinkedList for each element in a hashmap array to store values
+- Tries using Array and HashMap
 
 Happy Coding!
